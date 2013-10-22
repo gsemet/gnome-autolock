@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Configure Autolock
+Comment=Configure Autolock
+Exec=gedit
+# gnome-configure-autolock
+Icon=system-lock-screen
+Type=Application
+StartupNotify=false
+Categories=GNOME;GTK;Settings;X-GNOME-SystemSettings;X-GNOME-Settings-Panel;
+X-GNOME-Settings-Panel=Personal
+
