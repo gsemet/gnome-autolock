@@ -1,4 +1,5 @@
-ubuntu-autolock
+gnome-autolock
 ===============
 
-Autologin and automatically lock the screen
+Automatic screen lock-on on X login. When used with autologin, this allow to ensure you have
+your have your desktop ready and secure.
