@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Autolock
+Comment=Automatically lock the screen
+Exec=xscreensaver-command -lock
+Icon=system-lock-screen
+Type=Application
+StartupNotify=true
+
